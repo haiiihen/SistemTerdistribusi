@@ -1,0 +1,10 @@
+1. Instalasi Komponen (JDBC, memasang driver, DBMS jika perlu)
+2. Pengaturan DB
+3. Membangun Koneksi
+4. Membuat Table (bisa menggunakan Navicat, phpmyadmin, dll)
+5. Melakukan beberapa operasi (select, insert, update, dan delete)
+6. Membuat statement
+
+1. executeQuery(String sql)
+2. executeUpdate(String sql)
+3. execute(String sql)
